@@ -7,6 +7,7 @@
  * Copyright (c) 2002, R. Bryant and D. O'Hallaron, All rights reserved.
  * May not be used, modified, or copied without permission.
  */
+// #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
